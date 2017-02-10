@@ -1,6 +1,6 @@
 ### Learn Data Science in Python
-by Jimmy Lin
-(with a tiny amount of stuff by Jeffery Do)
+# by Jimmy Lin
+(with a tiny amount of help by Jeffery Do)
 
 This is a Data Science Workshop which is hosted by the 
 Cal Poly Data Science Club.
