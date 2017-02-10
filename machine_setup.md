@@ -1,4 +1,4 @@
-### Setting up machines 
+### Setting your machine for doing Data Science in Python 
 We will be helping people set up machines to do Data Science. Before the workshop, please download [Anaconda](https://www.continuum.io/downloads) for Windows, Mac, or Linux, as the download will likely take a while. 
 - For ALL: We will be using Python 3.6, so get the Python 3.6 installer
 - For Windows & Linux: Unless you are using a rather old PC, you should download the 64bit installer. If your pc is low-power or old, and you are unsure if you have a 64bit system, use this reference to check.
